@@ -1,0 +1,425 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\hotel_frontend.bundle.scp.css",
+      "PackagePath": "staticwebassets\\hotel_frontend.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\Font\\HVMuse-Italic.woff",
+      "PackagePath": "staticwebassets\\css\\Font\\HVMuse-Italic.woff"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\Font\\HVMuse-Italic.woff2",
+      "PackagePath": "staticwebassets\\css\\Font\\HVMuse-Italic.woff2"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\Font\\HVMuse-Regular.woff",
+      "PackagePath": "staticwebassets\\css\\Font\\HVMuse-Regular.woff"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\Font\\HVMuse-Regular.woff2",
+      "PackagePath": "staticwebassets\\css\\Font\\HVMuse-Regular.woff2"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\Bar & Champagne.png",
+      "PackagePath": "staticwebassets\\css\\image\\Bar & Champagne.png"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\Double urban loft.jpeg",
+      "PackagePath": "staticwebassets\\css\\image\\Double urban loft.jpeg"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\Early booking.jpg",
+      "PackagePath": "staticwebassets\\css\\image\\Early booking.jpg"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\Experience.png",
+      "PackagePath": "staticwebassets\\css\\image\\Experience.png"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\Friend invention.jpeg",
+      "PackagePath": "staticwebassets\\css\\image\\Friend invention.jpeg"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\Hoist.png",
+      "PackagePath": "staticwebassets\\css\\image\\Hoist.png"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\Introduction 1.jpg",
+      "PackagePath": "staticwebassets\\css\\image\\Introduction 1.jpg"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\Introduction 2.jpeg",
+      "PackagePath": "staticwebassets\\css\\image\\Introduction 2.jpeg"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\Meeting room.png",
+      "PackagePath": "staticwebassets\\css\\image\\Meeting room.png"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\Meeting.png",
+      "PackagePath": "staticwebassets\\css\\image\\Meeting.png"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\Other promotion.jpg",
+      "PackagePath": "staticwebassets\\css\\image\\Other promotion.jpg"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\Rectangle 1930.png",
+      "PackagePath": "staticwebassets\\css\\image\\Rectangle 1930.png"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\Rectangle 1931.png",
+      "PackagePath": "staticwebassets\\css\\image\\Rectangle 1931.png"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\Rectangle 1932.png",
+      "PackagePath": "staticwebassets\\css\\image\\Rectangle 1932.png"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\Rectangle 1933.png",
+      "PackagePath": "staticwebassets\\css\\image\\Rectangle 1933.png"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\Rectangle 1934.png",
+      "PackagePath": "staticwebassets\\css\\image\\Rectangle 1934.png"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\Rectangle 1935.png",
+      "PackagePath": "staticwebassets\\css\\image\\Rectangle 1935.png"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\Rectangle 1936.png",
+      "PackagePath": "staticwebassets\\css\\image\\Rectangle 1936.png"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\Unique junior loft suite.jpeg",
+      "PackagePath": "staticwebassets\\css\\image\\Unique junior loft suite.jpeg"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\Unique junior suite.jpeg",
+      "PackagePath": "staticwebassets\\css\\image\\Unique junior suite.jpeg"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\Your journey, our commitment.png",
+      "PackagePath": "staticwebassets\\css\\image\\Your journey, our commitment.png"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\arrow_left.svg",
+      "PackagePath": "staticwebassets\\css\\image\\arrow_left.svg"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\arrow_right.png",
+      "PackagePath": "staticwebassets\\css\\image\\arrow_right.png"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\detail.svg",
+      "PackagePath": "staticwebassets\\css\\image\\detail.svg"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\eleganza hotel.png",
+      "PackagePath": "staticwebassets\\css\\image\\eleganza hotel.png"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\eleganza hotel.svg",
+      "PackagePath": "staticwebassets\\css\\image\\eleganza hotel.svg"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\eleganza_scroll.svg",
+      "PackagePath": "staticwebassets\\css\\image\\eleganza_scroll.svg"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\hero.png",
+      "PackagePath": "staticwebassets\\css\\image\\hero.png"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\hình minh chứng.jpg",
+      "PackagePath": "staticwebassets\\css\\image\\hình minh chứng.jpg"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\khung_mail.png",
+      "PackagePath": "staticwebassets\\css\\image\\khung_mail.png"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\mail.png",
+      "PackagePath": "staticwebassets\\css\\image\\mail.png"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\r1.svg",
+      "PackagePath": "staticwebassets\\css\\image\\r1.svg"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\r2.svg",
+      "PackagePath": "staticwebassets\\css\\image\\r2.svg"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\r3.svg",
+      "PackagePath": "staticwebassets\\css\\image\\r3.svg"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\text_bar.png",
+      "PackagePath": "staticwebassets\\css\\image\\text_bar.png"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\image\\urban_double.jpeg",
+      "PackagePath": "staticwebassets\\css\\image\\urban_double.jpeg"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\hotel_frontend\\hotel_frontend\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.hotel_frontend.props",
+      "PackagePath": "build\\hotel_frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.hotel_frontend.props",
+      "PackagePath": "buildMultiTargeting\\hotel_frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.hotel_frontend.props",
+      "PackagePath": "buildTransitive\\hotel_frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.hotel_frontend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
